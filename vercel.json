@@ -31,7 +31,7 @@
         "REDIS_PORT": "30098",
         "CACHE_DRIVER": "redis",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "redis",
+        "SESSION_DRIVER": "array",
         "VIEW_COMPILED_PATH": "/tmp/views",
         "SSR_TEMP_PATH": "/tmp/ssr",
         "NODE_PATH": "node"
