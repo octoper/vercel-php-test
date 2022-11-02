@@ -16,8 +16,8 @@
     ],
     "env": {
         "APP_NAME": "Vercel Laravel",
-        "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_ENV": "local",
+        "APP_DEBUG": "true",
         "APP_KEY": "base64:B8SSDKN8PuQmY5F2bXH9bUbSs0zhNsLP++b5z/+J/lc=",
         "APP_URL": "https://vercel-laravel-test-rust.vercel.app",
         "VERCEL_DEMO_MODE": "true",
